@@ -1,4 +1,4 @@
-# french_date_filter_vuejs_wordpress
+# french_date_filter_vuejs_wordPress
 vuejs filter for the wordpress date
 
 
